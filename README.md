@@ -1,2 +1,2 @@
-# daily
-:calendar: daily use scripts kind of things
+# scripts
+:calendar: daily use scripts
